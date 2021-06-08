@@ -1,0 +1,1 @@
+Read the step by step process on how to deploy a Single Page Application on this [Medium Post.](https://medium.com/@asoluwaseun/deploying-a-single-page-application-on-google-kubernetes-engine-7afd5047e062).
